@@ -1,7 +1,10 @@
 # eduBejaia
 
 ## About
-**eduBejaia** is an innovative educational platform dedicated to enhancing the learning experience at Université de Béjaïa. Our platform is designed to meet the diverse needs of both students and teachers, providing tools that are user-friendly, efficient, and effective. eduBejaia is committed to fostering academic collaboration, improving accessibility, and supporting educational growth across Algeria.
+**eduBejaia** 
+eduBejaia is an innovative platform designed to enhance the learning experience at Université de Béjaïa. We focus on providing tools that are user-friendly, efficient, and effective for both students and teachers.
+
+After establishing our platform at Université de Béjaïa, we plan to expand eduBejaia to universities across Algeria. Our goal is to elevate education and foster academic collaboration nationwide.
 
 ## Goal
 Our primary goal is to revolutionize the educational experience in Algeria by providing a modern platform that bridges the gap between students and teachers. We aim to:
