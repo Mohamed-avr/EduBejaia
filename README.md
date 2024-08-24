@@ -1,4 +1,6 @@
-![372998](https://github.com/user-attachments/assets/ba87e002-6e0d-4f4d-948f-c552e418145e)# About![Uploading 372998.s<?xml version="1.0" encoding="UTF-8"?>
+# About!
+
+![372998](https://github.com/user-attachments/assets/ba87e002-6e0d-4f4d-948f-c552e418145e)[Uploading 372998.s<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381.74pt" height="122.55pt" viewBox="0 0 381.74 122.55" version="1.1">
 <defs>
 <clipPath id="clip1">
@@ -70,6 +72,8 @@
 </g>
 </svg>
 vg…]()
+
+
 
 **eduBejaia** 
 eduBejaia is an innovative platform designed to enhance the learning experience at Université de Béjaïa. We focus on providing tools that are user-friendly, efficient, and effective for both students and teachers.
