@@ -93,8 +93,8 @@ Our team is composed of passionate educators, developers, and designers who are 
 - **UI/UX Designers:**
   - Boukhanouf mohamed
   - Massy mekzine
-  - Empty, Get your ticket
-  - Empty, Get your ticket
+  - Empty, join us.
+  - Empty, join us.
 - **Backend Development:** _We currently don't have any backend developers and are seeking help to implement the backend. If you're interested in contributing, please [Join Us](#join-us)!_
 
 ### Join Us
