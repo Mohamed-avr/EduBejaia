@@ -1,6 +1,6 @@
 # About!
 
-![372998](https://github.com/user-attachments/assets/ba87e002-6e0d-4f4d-948f-c552e418145e)[Uploading 372998.s<?xml version="1.0" encoding="UTF-8"?>
+(https://github.com/user-attachments/assets/ba87e002-6e0d-4f4d-948f-c552e418145e)[Uploading 372998.s<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="381.74pt" height="122.55pt" viewBox="0 0 381.74 122.55" version="1.1">
 <defs>
 <clipPath id="clip1">
@@ -92,13 +92,12 @@ Our team is composed of passionate educators, developers, and designers who are 
 - **Founder & Lead Developer:** Mohamed Boukhanouf
 - **UI/UX Designers:**
   - Boukhanouf mohamed
-  - Massy mekzine
   - Empty, join us.
   - Empty, join us.
 - **Backend Development:** _We currently don't have any backend developers and are seeking help to implement the backend. If you're interested in contributing, please [Join Us](#join-us)!_
 
 ### Join Us
-We are always looking for talented and passionate individuals to join our team. If you're interested in contributing to eduBejaia, whether through development, design, or outreach, we'd love to hear from you! We have a [Telegram Group](https://t.me/YourGroupLink) where we discuss ideas, share progress, and collaborate on the project. Please check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
+We are always looking for talented and passionate individuals to join our team. If you're interested in contributing to eduBejaia, whether through development, design, or outreach, we'd love to hear from you! We have a [Telegram Group](https://t.me/+CrwpCMlbtNliZTg0) where we discuss ideas, share progress, and collaborate on the project. Please check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
 ---
 
